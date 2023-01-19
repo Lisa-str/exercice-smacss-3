@@ -1,0 +1,25 @@
+.land {
+  padding: 35px 0 90px;
+
+  h4 {
+    font-family: var(--font);
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+    letter-spacing: 0;
+    margin-bottom: 24px;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  li {
+    font-family: var(--font);
+    font-weight: 600;
+    font-size: 16px;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+}
